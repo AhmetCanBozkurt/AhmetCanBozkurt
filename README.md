@@ -6,8 +6,8 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 ## İletişim
 -  [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmetcanb785@gmail.com) : ahmetcanb785@gmail.com
 - [![Phone](https://img.shields.io/badge/Phone-%23FFB900?style=flat&logo=phone&logoColor=white)](tel:+90-507-353-6367) : +90-507-353-6367
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-canbozkurt-931206213) : https://www.linkedin.com/in/ahmet-canbozkurt-931206213
--  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/cvnbv) https://github.com/cvnbv
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-can-bozkurt-931206213/) : https://www.linkedin.com/in/ahmet-can-bozkurt-931206213/
+-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/cvnbv) : https://github.com/cvnbv
 
 
 ## Sertifikalar

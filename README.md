@@ -13,10 +13,15 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 ## 🎓 Sertifikalar  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20IT%20Essentials-%2300499C?style=flat&logo=cisco&logoColor=white" alt="Cisco IT Essentials">
-  <img src="https://img.shields.io/badge/eBA%20Geliştirici%20Sertifikası-%23121011?style=flat&logo=microsoft&logoColor=white" alt="eBA Geliştirici Sertifikası">
-  <img src="https://img.shields.io/badge/CSP%20Geliştirici%20Sertifikası-%230A66C2?style=flat&logo=microsoft&logoColor=white" alt="CSP Geliştirici Sertifikası">
-  <img src="https://img.shields.io/badge/SQL%20Sıfırdan%20Sektörün%20Yükseklerine-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Sıfırdan Sektörün Yükseklerine">
+  <strong>Cisco IT Essentials</strong> |
+  <strong>Öğrenci / Çırak İş Sağlığı ve Güvenliği</strong> |
+  <strong>Hızlı Okuma ve Hafıza Teknikleri</strong> |
+  <strong>SQL Sıfırdan Sektörün Yükseklerine (Murat Yücedağ)</strong> |
+  <strong>Uygulamalarla SQL Öğreniyorum (BTK Akademi)</strong> |
+  <strong>eBA Geliştirici Sertifikası</strong> |
+  <strong>eBA Geliştirici Sertifikası (12 Ara 2022)</strong> |
+  <strong>CSP Geliştirici Sertifikası (10 Kas 2023)</strong> |
+  <strong>CSP Teknik Destek Uzmanlığı Sertifikası (26 Ağustos 2024)</strong>
 </p>
 
 ## 🚀 Teknolojiler  
@@ -31,7 +36,6 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F482394%2Fautocad&psig=AOvVaw129_JqMNd-WYZQU0DR0HH8&ust=1738714761436000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNifkbDfqIsDFQAAAAAdAAAAABAE" alt="AutoCAD" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
 </p>

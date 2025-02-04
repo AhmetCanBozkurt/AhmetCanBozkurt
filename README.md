@@ -23,7 +23,9 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
   <strong>CSP Geliştirici Sertifikası (10 Kas 2023)</strong> |
   <strong>CSP Teknik Destek Uzmanlığı Sertifikası (26 Ağustos 2024)</strong>
 </p>
+
 ## 🚀 Teknolojiler  
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>

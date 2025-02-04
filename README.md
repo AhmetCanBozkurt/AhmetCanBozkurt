@@ -10,34 +10,36 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 -  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/cvnbv) : https://github.com/cvnbv
 
 
-## Sertifikalar
-- **Cisco IT Essentials**
-- **eBA Geliştirici Sertifikası (12 Ara 2022)**
-- **CSP Geliştirici Sertifikası (10 Kas 2023)**
-- **SQL Sıfırdan Sektörün Yükseklerine (Murat Yücedağ)**
+## 🎓 Sertifikalar  
 
-## Projelerim
-### Windows Form Projeleri
-- **Adam Asmaca Oyunu**
-- **Hafıza Kartı Oyunu**
-- **Yılan Oyunu**
-- **Hesap Makinesi**
-- **Geometrik Hesap Klavuzu**
-- **Stok Takip Otomasyonu (Mail Entegrasyonu)**
+[![Cisco](https://img.shields.io/badge/Cisco%20IT%20Essentials-%2300499C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/it-essentials)  
+[![eBA](https://img.shields.io/badge/eBA%20Geliştirici%20Sertifikası-%23121011?style=flat&logo=microsoft&logoColor=white)](https://www.kets.com.tr/eba-dokumantasyon/)  
+![CSP](https://img.shields.io/badge/CSP%20Geliştirici%20Sertifikası-%230A66C2?style=flat&logo=microsoft&logoColor=white)  
+[![SQL](https://img.shields.io/badge/SQL%20Sıfırdan%20Sektörün%20Yükseklerine-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.udemy.com/course/sql-ile-veri-analizi/)  
 
-### ASP.Net Projeleri
-- **ERP Projesi (Katmanlı Mimari ile)**  
-  - ASP.Net MVC ile geliştirilmiş ERP yazılımı, MVC ile yeniden yazıldı.
-- **Açık Bankacılık Servisi**  
-  - Paynet üzerinden banka ve hesap bakiyelerini yöneten servis.
-- **Poliçe Servisi**  
-  - Sigorta firmalarından poliçe çekilen WebAPI servisi.
 
-### React Projeleri
-- **Araç Açık Artırma Sitesi**  
-  - React ile araç açık arttırma sitesi, back-end ve front-end geliştirmesi yapıldı.
+## 🚀 Teknolojiler  
 
-## Teknolojiler
-- **Web Development**: HTML, CSS, JavaScript, ReactJS, AngularJS, ASP.Net Core, ASP.Net MVC, .NET Framework, Web API, Mikroservis
-- **Veritabanı**: MS SQL Server, Entity Framework, Dapper
-- **Diğer**: Python, AutoCAD, Adobe Photoshop, Adobe Illustrator
+### 🌐 Web Development  
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)  
+[![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-%235C2D91?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![ASP.Net MVC](https://img.shields.io/badge/ASP.Net%20MVC-%235C2D91?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%235C2D91?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![Web API](https://img.shields.io/badge/Web%20API-%230A66C2?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)  
+[![Microservices](https://img.shields.io/badge/Microservices-%232196F3?style=flat&logo=cloudflare&logoColor=white)](https://microservices.io/)  
+
+### 🗄️ Veritabanı  
+[![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)  
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%235C2D91?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)  
+[![Dapper](https://img.shields.io/badge/Dapper-%23121011?style=flat&logo=nuget&logoColor=white)](https://dapper-tutorial.net/)  
+
+### 🛠️ Diğer  
+[![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E34F26?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)  
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23007ACC?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)  
+

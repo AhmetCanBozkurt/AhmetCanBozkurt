@@ -23,55 +23,53 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
   <strong>CSP Geliştirici Sertifikası (10 Kas 2023)</strong> |
   <strong>CSP Teknik Destek Uzmanlığı Sertifikası (26 Ağustos 2024)</strong>
 </p>
-
-## 🚀 Teknolojiler  
 <p align="center">
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">HTML5</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">HTML5</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">CSS3</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">CSS3</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">JavaScript</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">JavaScript</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">React</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">React</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">Angular</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">Angular</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">.NET Core</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">.NET Core</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">C#</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">C#</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">MS SQL Server</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">MS SQL Server</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">SQLite</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">SQLite</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">Python</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">Python</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">Photoshop</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">Photoshop</figcaption>
   </figure>
-  <figure>
+  <figure style="display: inline-block; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
-    <figcaption style="font-size: 10px;">Illustrator</figcaption>
+    <figcaption style="font-size: 12px; color: #888;">Illustrator</figcaption>
   </figure>
 </p>

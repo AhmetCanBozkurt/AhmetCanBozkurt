@@ -23,65 +23,18 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 
 ### 🌐 Web Development  
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  </a>
-  <a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/ASP.Net%20Core-%235C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.Net Core">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/ASP.Net%20MVC-%235C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.Net MVC">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET%20Framework-%235C2D91?style=flat&logo=dotnet&logoColor=white" alt=".NET Framework">
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Web%20API-%230A66C2?style=flat&logo=postman&logoColor=white" alt="Web API">
-  </a>
-  <a href="https://microservices.io/">
-    <img src="https://img.shields.io/badge/Microservices-%232196F3?style=flat&logo=cloudflare&logoColor=white" alt="Microservices">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autodesk/autodesk-original.svg" alt="AutoCAD" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
 </p>
-
-### 🗄️ Veritabanı  
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/ef/">
-    <img src="https://img.shields.io/badge/Entity%20Framework-%235C2D91?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework">
-  </a>
-  <a href="https://dapper-tutorial.net/">
-    <img src="https://img.shields.io/badge/Dapper-%23121011?style=flat&logo=nuget&logoColor=white" alt="Dapper">
-  </a>
-</p>
-
-### 🛠️ Diğer  
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.autodesk.com/products/autocad/overview">
-    <img src="https://img.shields.io/badge/AutoCAD-%23E34F26?style=flat&logo=autodesk&logoColor=white" alt="AutoCAD">
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/Photoshop-%23007ACC?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
-  </a>
-</p>
-
 

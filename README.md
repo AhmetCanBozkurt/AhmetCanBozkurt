@@ -20,8 +20,6 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 </p>
 
 ## 🚀 Teknolojiler  
-
-### 🌐 Web Development  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -33,7 +31,7 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autodesk/autodesk-original.svg" alt="AutoCAD" width="50" height="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F482394%2Fautocad&psig=AOvVaw129_JqMNd-WYZQU0DR0HH8&ust=1738714761436000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNifkbDfqIsDFQAAAAAdAAAAABAE" alt="AutoCAD" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
 </p>

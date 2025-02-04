@@ -13,18 +13,18 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
 ## 🎓 Sertifikalar  
 
 <p align="center">
-  <a href="https://www.netacad.com/courses/it-essentials">
+ 
     <img src="https://img.shields.io/badge/Cisco%20IT%20Essentials-%2300499C?style=flat&logo=cisco&logoColor=white" alt="Cisco IT Essentials">
-  </a>
-  <a href="https://www.kets.com.tr/eba-dokumantasyon/">
+ 
+ 
     <img src="https://img.shields.io/badge/eBA%20Geliştirici%20Sertifikası-%23121011?style=flat&logo=microsoft&logoColor=white" alt="eBA Geliştirici Sertifikası">
-  </a>
-  <a href="#">
+
+ 
     <img src="https://img.shields.io/badge/CSP%20Geliştirici%20Sertifikası-%230A66C2?style=flat&logo=microsoft&logoColor=white" alt="CSP Geliştirici Sertifikası">
-  </a>
-  <a href="https://www.udemy.com/course/sql-ile-veri-analizi/">
+ 
+
     <img src="https://img.shields.io/badge/SQL%20Sıfırdan%20Sektörün%20Yükseklerine-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Sıfırdan Sektörün Yükseklerine">
-  </a>
+ 
 </p>
 
 

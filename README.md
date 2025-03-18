@@ -19,7 +19,6 @@ Junior Full-Stack Web Developer olarak başladığım yazılım yolculuğunda, k
   <strong>SQL Sıfırdan Sektörün Yükseklerine (Murat Yücedağ)</strong> |
   <strong>Uygulamalarla SQL Öğreniyorum (BTK Akademi)</strong> |
   <strong>eBA Geliştirici Sertifikası</strong> |
-  <strong>eBA Geliştirici Sertifikası (12 Ara 2022)</strong> |
   <strong>CSP Geliştirici Sertifikası (10 Kas 2023)</strong> |
   <strong>CSP Teknik Destek Uzmanlığı Sertifikası (26 Ağustos 2024)</strong>
 </p>
